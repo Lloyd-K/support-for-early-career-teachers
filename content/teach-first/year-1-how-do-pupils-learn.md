@@ -8,6 +8,8 @@ In this module you’ll explore the findings and evidence gathered during studie
 
 ## Introduction to the module
 
+### ECTs
+
 Go through the module introduction to see what you’ll be learning.
 
 Duration: 10 minutes.
@@ -20,12 +22,12 @@ Go through the module introduction to see what the ECT will be learning.
 
 ## Week 1: the working and long-term memory
 
+### ECTs
+
 During the first topic of the module you need to:
 
-- work through the self-study materials below
-- meet your mentor to discuss what you’ll be doing in the weeks ahead
-
-Duration: 55 minutes.
+- work through the self-study materials below (55 minutes)
+- meet your mentor to discuss what you’ll be doing in the weeks ahead (60 minutes)
 
 1. [Session overview](/teach-first/year-1-how-do-pupils-learn/autumn-week-1-ect-session-overview)
 2. [Theory](/teach-first/year-1-how-do-pupils-learn/autumn-week-1-ect-theory)
@@ -39,12 +41,12 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 2: considering how to introduce new knowledge to pupils
 
+### ECTs
+
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor
-
-Duration: 60 minutes.
+- work through the self-study materials below (60 minutes)
+- catch up with your mentor (60 minutes)
 
 1. [Session overview](/teach-first/year-1-how-do-pupils-learn/autumn-week-2-ect-session-overview)
 2. [Theory](/teach-first/year-1-how-do-pupils-learn/autumn-week-2-ect-theory)
@@ -61,8 +63,11 @@ Use the materials below to:
 
 ## Week 3: combining verbal explanation and graphical representations to reduce working memory overload
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
+### ECTs
 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting (60 minutes).
+
+You’ll also attend a training session arranged by your induction tutor (90 minutes). 
 
 ### Mentors
 
@@ -73,14 +78,23 @@ Use the materials below to:
 
 [View mentor materials](/teach-first/year-1-how-do-pupils-learn/autumn-week-3-mentor-materials)
 
+### Induction tutors 
+
+Use the materials below to arrange a training session on avoiding working memory overload. 
+
+Duration: 90 minutes. 
+
+[View induction tutor materials](/teach-first/year-1-how-do-pupils-learn/autumn-week-3-induction-tutor-materials)  
+
 ## Week 4: using worked and partially completed examples
+
+### ECTs
 
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor
-
-Duration: 45 minutes.
+- work through the self-study materials below (45 minutes)
+- attend a training session arranged by your induction tutor (90 minutes) 
+- catch up with your mentor (60 minutes)
 
 1. [Session overview](/teach-first/year-1-how-do-pupils-learn/autumn-week-4-ect-session-overview)
 2. [Theory](/teach-first/year-1-how-do-pupils-learn/autumn-week-4-ect-theory)
@@ -95,14 +109,21 @@ Use the materials below to:
 
 [View mentor materials](/teach-first/year-1-how-do-pupils-learn/autumn-week-4-mentor-materials)
 
+### Induction tutors 
+
+Use the materials below to arrange a training session on building well organised mental models. 
+
+Duration: 90 minutes. 
+
+[View induction tutor materials](/teach-first/year-1-how-do-pupils-learn/autumn-week-4-induction-tutor-materials)  
+
+
 ## Week 5: helping pupils remember
 
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor
-
-Duration: 80 minutes.
+- work through the self-study materials below (80 minutes)
+- catch up with your mentor (60 minutes)
 
 1. [Session overview](/teach-first/year-1-how-do-pupils-learn/autumn-week-5-ect-session-overview)
 2. [Theory](/teach-first/year-1-how-do-pupils-learn/autumn-week-5-ect-theory)
@@ -116,8 +137,9 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 6: practise using a low stakes quiz to strengthen pupils’ retrieval
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
+### ECTs
 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting (60 minutes).
 
 ### Mentors
 
@@ -127,12 +149,12 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 7: introduction to metacognition
 
+### ECTs
+
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor
-
-Duration: 15 minutes.
+- work through the self-study materials below (15 minutes)
+- catch up with your mentor (60 minutes)
 
 1. [Session overview](/teach-first/year-1-how-do-pupils-learn/autumn-week-7-ect-session-overview)
 2. [Theory](/teach-first/year-1-how-do-pupils-learn/autumn-week-7-ect-theory)
