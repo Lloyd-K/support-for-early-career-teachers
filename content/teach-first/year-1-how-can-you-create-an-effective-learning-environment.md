@@ -117,7 +117,7 @@ Use the materials below to arrange a training session on using praise and conseq
 
 Duration: 90 minutes. 
 
-[View induction tutor materials](TBC)
+[View induction tutor materials](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-5-induction-tutor-materials)
 
 ## Week 6: developing pupils’ intrinsic motivation
 
@@ -170,4 +170,4 @@ Use the materials below to arrange a training session on holding high expectatio
 
 Duration: 90 minutes. 
 
-[View induction tutor materials](TBC)  
+[View induction tutor materials]/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-7-induction-tutor-materials)  
